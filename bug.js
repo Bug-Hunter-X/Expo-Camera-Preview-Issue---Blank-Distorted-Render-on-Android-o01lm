@@ -1,0 +1,1 @@
+This bug occurs when using the Expo Camera API with a custom `Camera` component.  The preview doesn't render correctly, displaying a blank screen or a distorted image. This often happens after certain lifecycle events or when switching between different camera modes.
